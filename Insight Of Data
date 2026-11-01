@@ -1,0 +1,31 @@
+# E-Commerce Black Friday Sales & Customer Behavior Analytics
+
+## 📌 Project Overview
+An end-to-end data analytics capstone project built to analyze large-scale retail sales transactions during Black Friday. The primary objective was to uncover consumer purchasing patterns, identify high-value customer demographics, and evaluate product category performance to drive data-backed retail strategies.
+
+## 🛠️ Tech Stack & Tools
+* **Data Processing & Analysis:** Python (Pandas, NumPy), SQL (MySQL)
+* **Data Visualization & Dashboarding:** Power BI (Multi-page interactive reporting, DAX measures, custom tooltips)
+
+
+---
+
+## 📊 Key Analytical Insights & Findings
+
+### 1. Customer Demographics & Purchasing Power
+* **Age & Gender Trends:** Identified key age brackets (primarily adults aged 26–35) that generated the highest transaction volumes, with distinct spending behavior variations across genders.
+* **Marital Status Dynamics:** Analyzed spending distribution between married and unmarried consumer segments, revealing valuable insights for targeted promotional campaigns.
+
+### 2. Regional & City Performance
+* Segmented total purchase revenue across different city categories (**A, B, and C**), highlighting core geographic markets that drive the bulk of e-commerce revenue.
+* Uncovered regional demand discrepancies to help optimize inventory allocation for future sales events.
+
+### 3. Product Category Dominance
+* Utilized advanced visual structures (Treemaps and Bar Charts) to pinpoint top-performing product categories that contributed significantly to overall gross merchandise value (GMV).
+
+---
+
+## 💡 Dashboard Features & Interactivity
+* **Multi-Page Architecture:** Divided logically into an **Executive Overview** page (KPI cards, age group distribution, and regional highlights) and a **Product Analysis** page (deep-dive treemaps and demographic slicers).
+* **Interactive Filtering:** Configured cross-page and page-level slicers (`City_Category`, `Gender`, and `Marital_Status`) allowing stakeholders to slice data dynamically for granular exploration.
+*
